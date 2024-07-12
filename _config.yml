@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Zhenhui Lin"
 description              : &description "personal description"
 url                      : https://zhenhuil1n.github.io/Zh3nhuiL1n.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/image" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhenhuiL1n/Zh3nhuiL1n.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
