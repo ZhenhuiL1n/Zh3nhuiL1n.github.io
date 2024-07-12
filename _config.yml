@@ -22,9 +22,9 @@ repository               : "ZhenhuiL1n/Zh3nhuiL1n.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "About Me"
+  name             : "Zhenhui Lin, About Me:"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi, I am currently a 3D Computer vision Researcher focusing on human performance reconstruction; I am also a PC-DIYer and interested in robotics."
   location         : "Abu Dhabi, UAE"
   employer         : "MBZUAI"
   uri              : "https://zhenhuil1n.github.io/Zh3nhuiL1n.github.io/"
